@@ -88,7 +88,7 @@ Logging
 Exception Handling
 Model Serialization
 🌐 Render Deployment Link
-deployed Render link: https://car-price-prediction-miniproject2-using.onrender.com/
+deployed Render link: https://car-price-prediction-1-k5xb.onrender.com
 
 https://your-render-link.onrender.com
 Example:
